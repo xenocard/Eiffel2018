@@ -1,4 +1,4 @@
-[Fate Samurai Remnant v1.0.1 (USA) TID=01003AE01AA76000 BID=B3F271EF130A5338]
+[Fate Samurai Remnant v1.0.1 TID=01003AE01AA76000 BID=B3F271EF130A5338]
 
 [Restore Code (Use after unchecking any cheats below)]
 040E0000 00CF6800 1E2E1003
